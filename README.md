@@ -29,7 +29,7 @@ A personal Twitter clone built with **SwiftUI** and **Firebase**, designed as a 
   - Firebase Authentication  
   - Firestore Database  
   - Firebase Storage (for profile images)  
-- **Image Loading:** Kingfisher  
+- **Image Caching:** Kingfisher  
 
 ---
 
