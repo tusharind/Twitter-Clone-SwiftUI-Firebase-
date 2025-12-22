@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F9009132EF93B0A006523BE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7E64FDEC2E7ED89C007F7733 /* Twitter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Twitter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E64FE092E7EDC9C007F7733 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -161,6 +162,7 @@
 		7E64FDE32E7ED89C007F7733 = {
 			isa = PBXGroup;
 			children = (
+				1F9009132EF93B0A006523BE /* README.md */,
 				7E64FE092E7EDC9C007F7733 /* Media.xcassets */,
 				7E64FE032E7ED9D8007F7733 /* Model */,
 				7E64FDFF2E7ED95B007F7733 /* Services */,

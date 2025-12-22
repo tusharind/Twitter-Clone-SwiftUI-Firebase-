@@ -1,6 +1,7 @@
 import Firebase
 import Foundation
 
+@MainActor
 class FeedViewModel: ObservableObject {
     @Published var tweets = [Tweet]()
 
@@ -8,7 +9,6 @@ class FeedViewModel: ObservableObject {
         Task { try await fetchTweets() }
     }
 
-    @MainActor
     func fetchTweets() async throws {
         self.tweets = try await TweetService.fetchTweets()
         try await fetchUserDataForTweets()
