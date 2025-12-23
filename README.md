@@ -2,7 +2,7 @@
 
 A fully functional, polished Twitter clone built using **SwiftUI** and **Firebase**. This project demonstrates professional iOS development practices, featuring a modular architecture, clean code structure, and robust backend integration.
 
-## 📱 Features
+## Features
 
 ### Authentication
 - **Sign Up & Login**: Secure email and password authentication via Firebase Auth.
@@ -23,7 +23,7 @@ A fully functional, polished Twitter clone built using **SwiftUI** and **Firebas
 - **User Search**: Search for other users by username or display name.
 - **Navigation**: Seamless navigation to user profiles from search results.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language**: Swift 5+
 - **UI Framework**: SwiftUI
@@ -34,7 +34,7 @@ A fully functional, polished Twitter clone built using **SwiftUI** and **Firebas
   - **Storage**: Media storage for profile images
 - **Async Image Loading**: Kingfisher (or native AsyncImage, depending on implementation)
 
-## 📂 Project Structure
+## Project Structure
 
 The project follows a feature-centric folder structure for better scalability:
 
@@ -59,7 +59,7 @@ Twitter/
 └── Extensions/         # Swift extensions
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Xcode 14.0+
@@ -92,7 +92,7 @@ Twitter/
    - Select a simulator or physical device.
    - Hit **Run (Cmd + R)**.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
