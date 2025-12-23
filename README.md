@@ -92,13 +92,6 @@ Twitter/
    - Select a simulator or physical device.
    - Hit **Run (Cmd + R)**.
 
-## 📸 Screenshots
-
-<!-- Add screenshots of your app here -->
-| Login | Feed | Profile |
-|:---:|:---:|:---:|
-| <!-- IMG --> | <!-- IMG --> | <!-- IMG --> |
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
